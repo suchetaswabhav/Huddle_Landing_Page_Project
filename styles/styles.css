@@ -194,7 +194,7 @@ text-align: center;
 
 .BUTTON_Ready{
  
-    -webkit-border-radius: 50px;
+-webkit-border-radius: 50px;
 -moz-border-radius: 50px;
 border-radius: 50px;
 height: 0px;
@@ -210,8 +210,8 @@ text-decoration: none;
 display: inline-block;
 cursor: pointer;
 text-align: center;
+margin: 2px 253px;
 
-margin: 25px 253px;
 }
 
 
@@ -222,6 +222,7 @@ margin: 25px 253px;
     font-size:28px;
     font-family: 'Poppins', sans-serif;
     margin-top:64px;
+    text-align:center;
 
 }
 
